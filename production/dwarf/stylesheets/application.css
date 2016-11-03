@@ -658,6 +658,8 @@ body.controller-welcome.action-index #wrapper3 #main {
     box-sizing: border-box; }
     #header #quick-search > form {
       float: left; }
+    #header #quick-search select {
+      max-width: 100%; }
     #header #quick-search label {
       padding: 0px 10px;
       background-color: #282828;
